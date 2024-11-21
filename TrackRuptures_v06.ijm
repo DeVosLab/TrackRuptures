@@ -20,7 +20,7 @@
 	+ nuclear shape
 	
   	Please cite the relevant paper if useful for your research:
-  	J. Robijns, F. Molenberghs, T. Sieprath, T. Corne, M. Versegment_channeluuren and W. De Vos (2016). 
+  	J. Robijns, F. Molenberghs, T. Sieprath, T. Corne, M. Verschuuren and W. De Vos (2016). 
   	In silico synchronization reveals regulators of nuclear ruptures in lamin A/C deficient model cells. 
   	Scientific reports 6, 30325, p. 1-11. 
   	  	
